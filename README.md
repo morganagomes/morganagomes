@@ -1,9 +1,7 @@
 ### Hi! Welcome to my GitHub! 👋
 
-- 📚 I’m currently working as instructional designer at Alura.
 - 📓 I’m currently learning Python and I'm developing the skills to work with data science and machine learning. I'm also learning about product and project management.
 - 👩 Pronouns: she/her
-- ⚡ Fun fact: I'm a biologist, an English teacher and I'm on my third undergraduation course (Data Science)
 
  <div>
   <a href="https://github.com/morganagomes">
